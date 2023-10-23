@@ -11,3 +11,4 @@ JAVA Practice Programs for Beginners From Scratch
 8.  program8  - for loop
 9.  program9  - nested while loop
 10. program10 - nested for loop
+11. program11 - classes and objects
