@@ -12,3 +12,5 @@ JAVA Practice Programs for Beginners From Scratch
 9.  program9  - nested while loop
 10. program10 - nested for loop
 11. program11 - classes and objects
+12. program12 - one dimensional arrary
+13. program13 - two dimesnsional array
