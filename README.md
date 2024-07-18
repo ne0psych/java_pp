@@ -15,3 +15,5 @@ JAVA Practice Programs for Beginners From Scratch
 12. program12 - one dimensional arrary
 13. program13 - two dimesnsional array
 14. program14 - three dimesnsional array
+15. program15 - implicit typecasting
+16. program16 - explicit typecasting
